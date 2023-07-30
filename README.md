@@ -34,6 +34,14 @@ in another terminal:
 
 10. **GroupBy**: Inserts users in different countries and calculates total users and average age per country using Prisma's GroupBy feature.
 
-## for more details check
+## Next steps
+
+1. [Prisma Playground](https://playground.prisma.io/)
+
+2. [Transactions in postgresql](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-transaction/)
+
+3. [Transactions in prisma](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-transaction/) 
+
+## For more details check
 
 https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-typescript-postgresql
