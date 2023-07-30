@@ -1,5 +1,17 @@
 # learn prisma
 
+## How to run examples?
+
+```shell
+    docker-compose up
+```
+
+in another terminal:
+
+```
+    yarn dev
+```
+
 ## Tutorial Code Description: Prisma ORM Examples
 
 1. **Create Users**: Demonstrates how to create users using Prisma.
